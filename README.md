@@ -9,4 +9,7 @@
         <h1>Mi blog</h1>
     </header>
 </body>
+<footer>
+2019
+</footer>
 </html>
